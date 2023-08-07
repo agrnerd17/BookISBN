@@ -3,7 +3,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Heart Disease Prediction Model
+## BookISBN
 
 C++ BookISBN:
 
